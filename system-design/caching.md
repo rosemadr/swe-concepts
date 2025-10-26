@@ -15,13 +15,19 @@ Storing frequently accessed data in an easily and quickly accessible location in
 - Drawbacks: doesn't work with horizontally scales apps because there are more cache misses as each node only caches what it uses.
 
 ### distributed cache
+
+
+## Cache invalidation
+
+
 ___
 
 ## Caching services
-Redis
+Redis https://redis.io/ 
 
 
 ## Resources/citations
 
 - https://www.geeksforgeeks.org/system-design/caching-system-design-concept-for-beginners/
 - https://www.geeksforgeeks.org/system-design/what-is-a-distributed-cache/
+- https://www.geeksforgeeks.org/system-design/cache-invalidation-and-the-methods-to-invalidate-cache/
