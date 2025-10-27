@@ -1,0 +1,4 @@
+# SOLID 
+
+___
+## Resources/citations
